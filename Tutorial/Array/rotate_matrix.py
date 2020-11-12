@@ -2,6 +2,8 @@
 
 不占用额外内存空间能否做到？'''
 
+from typing import List
+
 
 class Solution:
     def rotate(self, matrix: List[List[int]]) -> None:

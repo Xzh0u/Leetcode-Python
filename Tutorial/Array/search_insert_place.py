@@ -3,6 +3,7 @@
 你可以假设数组中无重复元素。'''
 
 import bisect
+from typing import List
 
 
 class Solution:
